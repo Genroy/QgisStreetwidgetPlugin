@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/streetview_qgis_cej" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
