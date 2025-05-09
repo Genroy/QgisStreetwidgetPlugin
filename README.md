@@ -5,7 +5,7 @@
 ---
 ## 🇬🇧 English
 A QGIS plugin that allows you to view Google Street View interactively by clicking on the map canvas.
-Developed with ❤️ by **Cejay** and Arun
+Developed with ❤️ by **Cejay** 
 ### Features
 
 Open a dockable window inside QGIS  
@@ -43,7 +43,6 @@ MIT License
 
 Developed by:
 - **Cejay** (Original Developer)
-- Arun 
 Special thanks to the QGIS community!
 ---
 
@@ -82,12 +81,10 @@ Special thanks to the QGIS community!
 ---
 ### ใบอนุญาต
 
-MIT License
 ---
 ### เครดิต
 พัฒนาโดย:
 - **Cejay** (นักพัฒนาดั้งเดิม)
-- คุณอรุณที่รัก
 ขอขอบคุณชุมชน QGIS สำหรับแรงบันดาลใจและการสนับสนุน!
 ---
 ### Repository
