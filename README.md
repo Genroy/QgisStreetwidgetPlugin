@@ -89,5 +89,5 @@ Special thanks to the QGIS community!
 ---
 ### Repository
 
-GitHub Repository: [add your link here]
+GitHub Repository: [https://github.com/Genroy/QgisStreetwidgetPlugin]
 (C) 2011-2018 GeoApt LLC - geoapt.com
