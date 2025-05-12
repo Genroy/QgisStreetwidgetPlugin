@@ -43,6 +43,7 @@ MIT License
 
 Developed by:
 - **Thamoon Kedkaew Cejay** (Original Developer)
+- E-Mail Pongsakornche@gmail.com
 Special thanks to the QGIS community!
 ---
 
@@ -88,6 +89,6 @@ Special thanks to the QGIS community!
 ขอขอบคุณชุมชน QGIS สำหรับแรงบันดาลใจและการสนับสนุน!
 ---
 ### Repository 
-
 GitHub Repository: [https://github.com/Genroy/QgisStreetwidgetPlugin]
+E-Mail Pongsakornche@gmail.com
 (C) 2011-2018 GeoApt LLC - geoapt.com
