@@ -89,6 +89,6 @@ Special thanks to the QGIS community!
 ขอขอบคุณชุมชน QGIS สำหรับแรงบันดาลใจและการสนับสนุน!
 ---
 ### Repository 
-GitHub Repository: [https://github.com/Genroy/QgisStreetwidgetPlugin]
-E-Mail Pongsakornche@gmail.com
+- GitHub Repository: [https://github.com/Genroy/QgisStreetwidgetPlugin]
+- E-Mail Pongsakornche@gmail.com
 (C) 2011-2018 GeoApt LLC - geoapt.com
